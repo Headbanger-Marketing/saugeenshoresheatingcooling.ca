@@ -1,0 +1,24 @@
+# Saugeen Shores Heating & Cooling
+
+> Saugeen Shores Heating & Cooling is a local HVAC company serving Port Elgin, Bruce County, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 832-0144  |  Email: contact@saugeenshoresheatingcooling.ca  |  Website: https://saugeenshoresheatingcooling.ca
+
+## Key pages
+
+- [Home](https://saugeenshoresheatingcooling.ca/): Saugeen Shores Heating & Cooling homepage with service overview and FAQ
+- [About](https://saugeenshoresheatingcooling.ca/about/): About the company and service area
+- [Contact](https://saugeenshoresheatingcooling.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Repair](https://saugeenshoresheatingcooling.ca/services/furnace-repair/): Furnace Repair in Port Elgin, Ontario
+- [AC Repair](https://saugeenshoresheatingcooling.ca/services/ac-repair/): AC Repair in Port Elgin, Ontario
+- [Ductless AC Installation](https://saugeenshoresheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in Port Elgin, Ontario
+- [Heat Pump Repair & Installation](https://saugeenshoresheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pump Repair & Installation in Port Elgin, Ontario
+- [Thermostat Repair & Replacement](https://saugeenshoresheatingcooling.ca/services/thermostat-repair-replacement/): Thermostat Repair & Replacement in Port Elgin, Ontario
+- [Duct Cleaning](https://saugeenshoresheatingcooling.ca/services/duct-cleaning/): Duct Cleaning in Port Elgin, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Port Elgin are answered on the homepage.
